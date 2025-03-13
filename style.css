@@ -1,0 +1,31 @@
+/* Custom styles */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar {
+    border-bottom: 2px solid #ddd;
+}
+
+footer {
+    background-color: #333;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.card img {
+    height: 150px;
+    object-fit: cover;
+}
+
+h1 {
+    color: #333;
+    font-weight: bold;
+}
+
+p.lead {
+    font-size: 1.2em;
+    color: #555;
+}
